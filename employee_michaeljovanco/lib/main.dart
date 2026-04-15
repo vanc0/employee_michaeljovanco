@@ -18,8 +18,8 @@ class MainApp extends StatelessWidget{
       title: 'Daftar Karyawan',
       debugShowCheckedModeBanner: false,
       theme: ThemeData(colorSchemeSeed: Colors.green, useMaterial3: true),
-      home: const employee_list_screen(),
-    )
+      home: const EmployeeListScreen(),
+    );
   }
 }
 
