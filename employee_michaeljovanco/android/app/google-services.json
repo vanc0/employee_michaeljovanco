@@ -1,0 +1,30 @@
+{
+  "project_info": {
+    "project_number": "337933618419",
+    "firebase_url": "https://employee-db-76cb0-default-rtdb.asia-southeast1.firebasedatabase.app",
+    "project_id": "employee-db-76cb0",
+    "storage_bucket": "employee-db-76cb0.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:337933618419:android:3b2a30e0d19774c8d27b86",
+        "android_client_info": {
+          "package_name": "com.example.employee_michaeljovanco"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDLSewWWJIquqwkpy8OEf9Xq7fskQHFd8s"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
